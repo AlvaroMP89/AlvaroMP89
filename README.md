@@ -15,8 +15,9 @@ Doce años en el sector deportivo me enseñaron que la constancia y el trabajo e
 Mi interés en el desarrollo Android y bases de datos viene de mi deseo de crear soluciones prácticas y optimizadas que puedan tener un impacto real en la vida de los usuarios. Me motiva enfrentar desafíos técnicos y explorar formas de mejorar la eficiencia de las aplicaciones. Busco mejorar constantemente mis habilidades para crear aplicaciones robustas y escalables.
 
 # 📬 Contacto
-LinkedIn: Álvaro Muñoz Pajares<br>
-Correo electrónico:alvaromuozpajares@gmail.com​​
+📍Madrid, 28052<br>
+🗒️ LinkedIn: Álvaro Muñoz Pajares<br>
+✉️ Correo electrónico:alvaromuozpajares@gmail.com​​
 
 
 
