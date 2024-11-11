@@ -1,5 +1,5 @@
 # Hola, soy Alvaro Muñoz Pajares 👋🏻
-💻 Estudiante de segundo de Desarrollo de Aplicaciones Multiplataforma (DAM), con especial interés en desarrollo Androidy **bases de datosbases de datos.<br>
+💻 Estudiante de segundo de Desarrollo de Aplicaciones Multiplataforma (DAM), con especial interés en desarrollo Android y bases de datos.<br>
 
 📱 Actualmente trabajo en proyectos que integran Java y bases de datos para crear aplicaciones funcionales y eficaces.<br>
 
@@ -36,7 +36,7 @@ Correo electrónico:alvaromuozpajares@gmail.com​​
 ## 🏆 Trofeos GitHub
 ![](https://github-profile-trophy.vercel.app/?username=AlvaroMP89&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ La Frase del desarrollo:
+### ✍️ La Frase del desarrollador:
 "En constante evolución, línea a línea, hacia mejores soluciones."
 
 
