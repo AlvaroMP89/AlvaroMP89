@@ -5,6 +5,10 @@
 
 🚀 Proactivo y orientado a la mejora continua, con enfoque en el sector tecnológico y pasión por aprender y aplicar nuevas habilidades.
 
+<a target="_blank" align="center">
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 
 
 # 💫 Sobre mi:
