@@ -9,7 +9,7 @@
 
 <a target="_blank" align="center">
 
-  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 
@@ -17,6 +17,12 @@
 # 💫 Sobre mi:
 Soy un programador junior apasionado por la tecnología y con muchas ganas de continuar desarrollándome en el sector. Mi formación en desarrollo de aplicaciones me ha dado una base sólida en diversas tecnologías, y mi enfoque ha sido profundizar en áreas como Android y bases de datos , donde encontró una gran motivación para seguir aprendiendo. Me considero una persona proactiva, orientada a soluciones y con una gran capacidad de adaptación a nuevos retos.<br><br>Con una mentalidad de crecimiento y aprendizaje constante, busca una oportunidad para demostrar mi valor en un equipo donde pueda aplicar mis conocimientos y mejorar cada día. Mi objetivo no es solo contribuir con habilidades, sino aportar una actitud comprometida y entusiasta que ayudará a impulsar proyectos y enriquecer el ambiente de trabajo. Estoy seguro de que, con mi disposición para aprender y adaptarme, puedo ser un activo valioso para cualquier empresa que me brinde la oportunidad de comenzar mi carrera y mostrar de qué soy capaz.
 Doce años en el sector deportivo me enseñaron que la constancia y el trabajo en equipo son clave. Ahora aplico esos mismos valores en el mundo de la programación, construyendo un futuro tecnológico.
+
+<a target="_blank" align="center">
+
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 # 🚀¿Qué me motiva?
 Mi interés en el desarrollo Android y bases de datos viene de mi deseo de crear soluciones prácticas y optimizadas que puedan tener un impacto real en la vida de los usuarios. Me motiva enfrentar desafíos técnicos y explorar formas de mejorar la eficiencia de las aplicaciones. Busco mejorar constantemente mis habilidades para crear aplicaciones robustas y escalables.
 
